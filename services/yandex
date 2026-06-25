@@ -13,6 +13,8 @@ ya.ru,yandex.ru##.DistributionPopup
 ya.ru,yandex.ru##.HeaderDesktopActions-Distribution
 
 !! Поиск
+! Просьба установить Яндекс поиском по умолчанию/установить Яндекс браузер
+ya.ru## .Distribution
 ! Рекомендации под строкой поиска на главной странице
 ya.ru## div[ class $= 'feed_yes' ]
 ! Стартовый экран с предложением установки Яндекс Браузера
