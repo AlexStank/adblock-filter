@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: AlexStank uBlock Filter
-! Version: 0.1.0.0
-! Homepage: https://github.com/AlexStank/ublock-filter
+! Title: AlexStank adBlock Filter
+! Version: 0.2.0.0
+! Homepage: https://github.com/AlexStank/adblock-filter
 
 !#include services/deepseek
 !#include services/google
