@@ -10,7 +10,7 @@
 1. Перейти в самый конец вкладки "Список фильтров" (Filter lists) в настройках расширения
 2. Раскрыть меню "Импортировать..." (Import...) и вставить ссылку:
   ```` javascript copy
-  https://raw.githubusercontent.com/AlexStank/ublock-filter/master/main
+  https://raw.githubusercontent.com/AlexStank/adblock-filter/master/main
   ````
 3. Применить изменения
 
@@ -18,7 +18,7 @@
 1. В настройках расширения перейти на вкладку "Фильтры", выбрать меню "Собственные"
 2. Нажать кнопку "Добавить фильтр" и вставить ссылку:
   ```` javascript copy
-  https://raw.githubusercontent.com/AlexStank/ublock-filter/master/main
+  https://raw.githubusercontent.com/AlexStank/adblock-filter/master/main
   ````
 3. Применить изменения
 
