@@ -19,3 +19,5 @@ cloud.mail.ru##div[ class ^= 'UploadProvocation__wrapper' ]
 cloud.mail.ru##.Upload__root--3sm3X
 ! Предложение о миграции данных из Telegram
 cloud.mail.ru##div[ class ^= TelegramMigrationSidebarinfo ]
+! Предложение о миграции данных из Telegram в панели профиля
+cloud.mail.ru##.ph-item__container > a[ href *= 'files_migration' ]
