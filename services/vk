@@ -17,3 +17,5 @@ cloud.mail.ru##div[ class ^= 'TreePromoDesktopAp' ]
 cloud.mail.ru##div[ class ^= 'UploadProvocation__wrapper' ]
 ! Кнопка "Загрузить"
 cloud.mail.ru##.Upload__root--3sm3X
+! Предложение о миграции данных из Telegram
+cloud.mail.ru##div[ class ^= TelegramMigrationSidebarinfo ]
