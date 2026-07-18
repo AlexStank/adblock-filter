@@ -1,12 +1,14 @@
 !! VK
 ! Баннер с рекламой над панелью с музыкой
-vk.com##.CatalogSection--header_section.CatalogSection
+vk.com,vk.ru##.CatalogSection--header_section.CatalogSection
 ! Баннеры справа от ленты новостей
-vk.com###feed_filters
+vk.com,vk.ru###feed_filters
+! Преложение установить Яндекс.Браузер в левом меню
+vk.com,vk.ru###l_invite_promo
 
 !! VK ID
 ! Реклама под меню настроек
-id.vk.com##div[ class ^= 'AdvertisingBanner' ]
+id.vk.com,id.vk.ru##div[ class ^= 'AdvertisingBanner' ]
 
 !! Почта
 ! Предложение установить приложение
