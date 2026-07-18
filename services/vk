@@ -5,6 +5,8 @@ vk.com,vk.ru##.CatalogSection--header_section.CatalogSection
 vk.com,vk.ru###feed_filters
 ! Преложение установить Яндекс.Браузер в левом меню
 vk.com,vk.ru###l_invite_promo
+! Предложение о переходе с vk.com на vk.ru
+vk.com,vk.ru##.FeaturesDisabledBanner
 
 !! VK ID
 ! Реклама под меню настроек
