@@ -21,6 +21,8 @@ ya.ru## div[ class $= 'feed_yes' ]
 ya.ru,yandex.ru##:matches-path(search) div[ id ^= 'DistributionSplashscreen' ]
 ! Реклама справа от результатов поиска
 ya.ru,yandex.ru##:matches-path(search) div[ id = 'search-result-aside' ] > div:not( [ role = 'complementary' ] )
+! Реклама справа от результатов поиска (одиночное окно рекламы)
+ya.ru,yandex.ru##.content > div:has( div[ data-reqid *= 'kubr-yp' ] )
 ! Уведомление от РКН о нарушении законов
 ya.ru,yandex.ru## .Warning_type_roskomnadzor
 
